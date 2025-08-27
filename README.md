@@ -1,6 +1,6 @@
-# Project Title
+# README Template
 
-Use this section for project description
+A template file for my projects READMEs.
 
 ## Table of contents
 
