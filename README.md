@@ -28,13 +28,13 @@ Follow these steps to get a copy of the project up and running on your local mac
 ### Cloning the repository
 
 ```sh
-git clone https://github.com/krutagna31/nextjs-shadcn-template.git
+git clone https://github.com/krutagna31/project-name.git
 ```
 
 ### Installing dependencies
 
 ```sh
-cd nextjs-template
+cd project-name
 npm install
 ```
 
